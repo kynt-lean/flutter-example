@@ -1,0 +1,23 @@
+{
+  "main": {
+    "title": "HỆ THỐNG XỬ LÝ NƯỚC THẢI",
+    "copyright": "Bản quyền © Trung Tâm Chuyển Đổi Số"
+  },
+  "authen": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "loginSubTitle": "Đăng nhập bằng tài khoản hoặc email của bạn",
+    "account": "Tài khoản",
+    "accPlaceholder": "Tài khoản hoặc Email",
+    "loginNullAcc": "Vui lòng nhập tài khoản hoặc Email",
+    "password": "Mật khẩu",
+    "passPlaceholder": "Nhập mật khẩu",
+    "loginNullPass": "Vui lòng nhập mật khẩu"
+  },
+  "categories":{
+    "item": {
+      "title": "Vật tư",
+      "detail": "Chi tiết vật tư"
+    }
+  }
+}

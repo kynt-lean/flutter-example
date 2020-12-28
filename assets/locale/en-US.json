@@ -1,0 +1,23 @@
+{
+  "main": {
+    "title": "WASTE WATER TREATMENT SYSTEM",
+    "copyright": "Copyright © Digital Transformation Center"
+  },
+  "authen":{
+    "login": "Login",
+    "logout": "Logout",
+    "loginSubTitle": "Sign in with your account or email",
+    "account": "Account",
+    "accPlaceholder": "Account or Email",
+    "loginNullAcc": "Please enter your account or Email",
+    "password": "Password",
+    "passPlaceholder": "Enter Password",
+    "loginNullPass": "Please enter your Password"
+  },
+  "categories":{
+    "item": {
+      "title": "Item",
+      "detail": "Item detail"
+    }
+  }
+}

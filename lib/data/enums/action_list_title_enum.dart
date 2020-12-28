@@ -1,0 +1,4 @@
+enum ActionList{
+  DELETE,
+  EDIT
+}
